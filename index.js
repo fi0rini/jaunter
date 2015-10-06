@@ -51,7 +51,6 @@ var walkdirasync = function (path, exts) {
 
 // synchronous directory walk function
 var walkdirsync = function (path, exts) {
-	console.log(path, exts);
 	// if path is a directory then recurse
 	if ( fs.statSync(path).isDirectory() ) {
 		let dirArray = fs.readdirSync(path);
