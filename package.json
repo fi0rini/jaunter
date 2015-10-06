@@ -1,0 +1,50 @@
+{
+  "name": "jaunter",
+  "version": "0.0.1",
+  "description": "walk dir namespace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'test' && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nf071590"
+  },
+  "keywords": [
+    "walk",
+    "directory",
+    "walkdir",
+    "namespace",
+    "file",
+    "system"
+  ],
+  "author": {
+    "name": "nick fiorini",
+    "email": "nf071590@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "extend": "^3.0.0"
+  },
+  "_id": "jaunter@0.0.1",
+  "_shasum": "8d5ac87529bf9edbcb5dfa79049c7adb9b136d29",
+  "_from": "jaunter@*",
+  "_npmVersion": "2.14.4",
+  "_nodeVersion": "4.1.1",
+  "_npmUser": {
+    "name": "nf071590",
+    "email": "nf071590@gmail.com"
+  },
+  "dist": {
+    "shasum": "8d5ac87529bf9edbcb5dfa79049c7adb9b136d29",
+    "tarball": "http://registry.npmjs.org/jaunter/-/jaunter-0.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "nf071590",
+      "email": "nf071590@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/jaunter/-/jaunter-0.0.1.tgz"
+}
