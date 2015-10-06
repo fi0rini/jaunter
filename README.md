@@ -11,4 +11,5 @@ module for directory traversal using an event emitter
         async: true,
         exts: ['.json']
     })
-    .on('match', (path) => console.log("JSON File:\t", path));
+    .on('match', (path) => console.log("JSON File:\t", path))
+    .on('non-match', (path) => console.log("Non matching path:", path));
